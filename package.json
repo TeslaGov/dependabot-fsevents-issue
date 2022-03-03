@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "url-parse": "^1.5.3"
+    "url-parse": "^1.5.9"
   },
   "optionalDependencies": {
     "fsevents": "^2.3.2"
